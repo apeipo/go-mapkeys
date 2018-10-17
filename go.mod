@@ -1,4 +1,4 @@
-module github.com/apeipo/go-mapkeys
+module github.com/apeipo/go-mapkeys/v2
 
 require (
 	github.com/google/go-cmp v0.2.0 // indirect
